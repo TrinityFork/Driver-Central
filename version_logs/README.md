@@ -8,4 +8,4 @@ v0.1.0-project-goal (10-01-2026).md <br>
 (first version)(summarizes what is discussed)(date created) <br><br>
 
 **Check out the earliest available outline with the link below**
-[Project Goal Log](v0.1.0-project-goal (10-01-2026)
+[Project Goal Log](v0.1.0-project-goal (10-01-2026).md)
