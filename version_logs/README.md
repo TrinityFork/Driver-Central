@@ -7,5 +7,5 @@ Files will be organized by their version number vX.X.X, a two word summary of th
 v0.1.0-project-goal-20261001.md <br>
 (first version)(summarizes what is discussed)(date created) <br><br>
 
-**Check out the earliest available outline with the link below**
+**Check out this project's first version here:**
 [Project Goal Log](v0.1.0-project-goal-20261001.md)
