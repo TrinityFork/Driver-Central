@@ -9,6 +9,6 @@ Once that version is done, the section is renamed to its version number "[x.x.x]
 2026-10-01:
 - Created driverhub repository and initial README.
 - Set up simple navigation links on README.
-- Created CHAGELOG.
+- Created CHAGELOG and set up general layout.
 - Set up image_assets and version_logs directories.
 - Created first version log to outline my initial goals for this project.
