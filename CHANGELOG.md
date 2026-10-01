@@ -1,7 +1,9 @@
-# Changelog
+# Welcome to Driver Hub's CHANGELOG file
 
-All notable changes to this project will be documented in this file.
-Active logs will be labeled as [unreleased]. Once that version is done, they are renamed to their version number "[x.x.x] - date complete."
+All notable changes for this project will be documented in this file.
+Active logs will be labeled as [unreleased] and will always be located at the top. <br>
+Once that version is done, the section is renamed to its version number "[x.x.x] - date complete." <br>
+<i>The latest version will always be at the top while the oldest will be at the very bottom.</i>
 
 ## [unreleased]
 2026-10-01:
