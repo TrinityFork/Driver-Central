@@ -8,3 +8,4 @@ It would be nice if when connected to a network it can pull the most recent driv
 To better navigate this repository I've created a set of links below that will take you around to important documents or the README documents for each directory.
 **Navigation Links:**
 - [Version Logs](./version_logs/README.md) - This directory serves as an archive to ideas and goals for this project.
+- [CHANGELOG](CHANGELOG.md) - This document is where progress is logged as the project develops.
