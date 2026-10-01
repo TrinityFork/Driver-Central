@@ -1,5 +1,5 @@
-# All-in-one Driver Software
-This is an open-source passion project I am working on. The goal is to create some form of software that can be used on and off the network to update, reinstall, or install drivers. It would allow you to pick between various available distros (Primary Linux Support) which will then prompt you to select the drivers you want.
+# All-in-one Driver Software v0.1.0
+This is an open-source passion project. The goal is to create some form of software that can be used on and off a network to update, reinstall, or install drivers. It would allow you to pick between various available distros (Primary Linux Support) which will then prompt you to select the drivers you want.
 After selecting and confirming the drivers you want, it will install them to your system. 
 
 I would also like to add an option for it to push an update command while installing drivers to ensure the system is up-to-date. 
