@@ -16,3 +16,4 @@ Once that version is done, the section is renamed to its version number "[x.x.x]
 2026-10-02:
 - Added MIT License to repository.
 - Changed repository name from Driverhub to Driver-Central.
+- Added source directory for scripts and linked initial README to it.
