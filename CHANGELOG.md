@@ -6,6 +6,10 @@ Once that version is done, the section is renamed to its version number "[x.x.x]
 <i>The latest version will always be at the top while the oldest will be at the very bottom.</i>
 
 ## [unreleased]
+2026-10-02:
+- Created the new v0.2.0 change log.
+
+## [v0.1.0]
 2026-10-01:
 - Created driverhub repository and initial README.
 - Set up simple navigation links on README.
