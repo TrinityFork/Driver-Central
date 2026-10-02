@@ -9,3 +9,4 @@ To better navigate this repository I've created a set of links below that will t
 **Navigation Links:**
 - [Version Logs](./version_logs/README.md) - This directory serves as an archive to ideas and goals for this project.
 - [CHANGELOG](CHANGELOG.md) - This document is where progress is logged as the project develops.
+- [Source Directory](./src/README.md) - This is the introduction to my source directory where I store scripts.
