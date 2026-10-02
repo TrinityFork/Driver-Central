@@ -7,7 +7,7 @@ Once that version is done, the section is renamed to its version number "[x.x.x]
 
 ## [unreleased]
 2026-10-02:
-- Created the new v0.2.0 change log.
+- Began the new v0.2.0 version log.
 
 ## [v0.1.0]
 2026-10-01:
