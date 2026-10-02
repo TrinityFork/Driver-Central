@@ -1,4 +1,4 @@
-# Welcome to Driver Hub's CHANGELOG file
+# Welcome to Driver Central's CHANGELOG file
 
 All notable changes for this project will be documented in this file.
 Active logs will be labeled as [unreleased] and will always be located at the top. <br>
